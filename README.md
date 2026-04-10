@@ -4,9 +4,9 @@ Clustering and Dimensionality Reduction assignment from the Machine Learning cou
 
 ## Contents
 
-- `notebooks/M2.991_20252_PAC2_Enunciat.ipynb` — Original assignment
-- `notebooks/M2.991_20252_PAC2_Solution.ipynb` — Solution
-- `env_m2_891_20252_pec2 .yml` — Conda environment file
+- `notebooks/M2.991_20252_PAC2_Enunciat.ipynb`: Original assignment
+- `notebooks/M2.991_20252_PAC2_Solution.ipynb`: Solution
+- `env_m2_891_20252_pec2 .yml`: Conda environment file
 
 ## Topics
 
